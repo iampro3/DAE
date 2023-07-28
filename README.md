@@ -1,2 +1,1 @@
-# DAE
 # Denoise AutoEncoder
